@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Inter');
+
+.top_title {
+    font-family: 'Inter';
+    font-size: 34px;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 2px;
+}
+
+.top_title_withAddress {
+    font-family: 'Inter';
+    font-size: 27px;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 2px;
+}
+
+.token_ID {
+    font-family: 'Inter';
+}
+
+.genesis_img {
+    width: 200px !important;
+    height: 280px !important;
+    margin-top: 50px;
+}
+
+.selected_img {
+    border-radius: 10px;
+    border: 5px solid #FF3D00;
+}
+
+.gas_price {
+    font-size: 25px;
+    font-family: "Inter";
+}
+
+.body_title {
+    font-family: 'Inter';
+}
+
+.redeem_div {
+    /* background-color: black; */
+    /* margin-top: 10%  !important; */
+    height: 100vh;
+    padding-top: 100px;
+}
+
+.genesis_pass_connect_btn {
+    color: white;
+    background-color: #47a1ff;
+    padding: 10px 15px;
+    border-radius: 30px;
+    margin-top: 60px;
+}
+
+.background-genesis_div {
+    z-index: -1;
+}
+
+.checking_pass_div {
+    margin-top: 10%;
+    height: 100vh;
+}
+
+.coming_title {
+    font-size: 20px;
+    color: yellow
+}
